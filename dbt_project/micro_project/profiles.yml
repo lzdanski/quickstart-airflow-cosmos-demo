@@ -1,0 +1,8 @@
+micro_project:
+  target: dev
+  outputs:
+    dev:
+      type: sqlite
+      threads: 1
+      database: "my_database.db"
+      schema: main

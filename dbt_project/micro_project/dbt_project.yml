@@ -1,0 +1,4 @@
+name: 'micro_project'
+version: '1.0'
+profile: 'micro_project'
+model-paths: ["models"]
